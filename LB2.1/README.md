@@ -29,14 +29,9 @@ python3 --version
    source venv/bin/activate
    
 
-3. Убедитесь, что `pip` работает:
-   
-   pip --version
-   
-
 ---
 
-3. Установите Flask
+Установите Flask
 
 Flask:
 Установите Flask с помощью команды:
